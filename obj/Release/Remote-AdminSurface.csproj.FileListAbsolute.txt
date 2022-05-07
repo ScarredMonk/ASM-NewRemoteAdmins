@@ -1,0 +1,8 @@
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\bin\Release\Remote-AdminSurface.exe.config
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\bin\Release\Remote-AdminSurface.exe
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\bin\Release\Remote-AdminSurface.pdb
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\obj\Release\Remote-AdminSurface.csproj.AssemblyReference.cache
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\obj\Release\Remote-AdminSurface.csproj.SuggestedBindingRedirects.cache
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\obj\Release\Remote-AdminSurface.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\obj\Release\Remote-AdminSurface.exe
+C:\Users\dev\Desktop\Final\Remote-AdminSurface\obj\Release\Remote-AdminSurface.pdb
